@@ -1,0 +1,85 @@
+Source,/Users/didordure/Documents/SX3000/vco V2 avec pot/vco.sch
+Kicad Rev,Eeschema (5.1.2-1)-1
+Generated Date,Jeudi 27 avril 2023 à 13:08:08
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+U2,TL072,Amplifier_Operational,TL072
+R18,20k,Device,R_US
+R20,20k,Device,R_US
+R21,1k tempco,Device,R_US
+R26,20k,Device,R_US
+R23,20k,Device,R_US
+U4,CA3086,Transistor_BJT,CA3086
+R28,1k,Device,R_US
+R27,4k7,Device,R_US
+R17,100k,Device,R_US
+R24,4k7,Device,R_US
+C3,0.0047u,Device,C
+C4,100pF,Device,C
+R29,150k,Device,R_US
+U7,TL071,Amplifier_Operational,TL071
+U6,TL071,Amplifier_Operational,TL071
+U5,TL071,Amplifier_Operational,TL071
+R36,2k2,Device,R_US
+C7,0.0047u,Device,C
+Q3,BC307,Transistor_BJT,BC307
+R31,2k2,Device,R_US
+R32,10k,Device,R_US
+C6,1000pF,Device,C
+D1,1N4148,Diode,1N4148
+R39,1k,Device,R_US
+R41,47k,Device,R_US
+C8,C,Device,C
+R30,R_US,Device,R_US
+R35,22k,Device,R_US
+R37,47k,Device,R_US
+R40,100k,Device,R_US
+R43,22k,Device,R_US
+R44,33k,Device,R_US
+R42,100k,Device,R_US
+R33,R_US,Device,R_US
+R34,10k,Device,R_US
+R38,100k,Device,R_US
+SW1,SW_Rotary2x4,Switch,SW_Rotary2x4
+J1,Conn_01x10_MountingPin,Connector_Generic_MountingPin,Conn_01x10_MountingPin
+plusoumoins7v1,MountingHole_Pad,Mechanical,MountingHole_Pad
+R2,330k,Device,R_US
+R9,100k,Device,R_US
+R8,30k,Device,R_US
+RV1,50k,Device,R_Potentiometer_Trim
+RV2,50k,Device,R_Potentiometer_Trim
+RV3,50k,Device,R_Potentiometer_Trim
+R10,360k,Device,R_US
+R11,180k,Device,R_US
+R12,130k,Device,R_US
+R15,1k,Device,R_US
+R14,1k,Device,R_US
+R13,1k,Device,R_US
+R7,270k,Device,R_US
+R6,100k,Device,R_US
+tune1,10k lin,Device,R_Potentiometer
+freqcalTRIMM1,10k,Device,R_Potentiometer_Trim
+Q1,2N5163,Device,Q_NJFET_DSG
+Q2,2N5163,Device,Q_NJFET_DSG
+R4,47k,Device,R_US
+R5,47k,Device,R_US
+R1,330R,Device,R_US
+C2,1u,Device,C
+C1,0.47u,Device,C
+U1,TL071,Amplifier_Operational,TL071
+R3,27k,Device,R_US
+glide1,1M log,Device,R_Potentiometer
+bussBarIn1,MountingHole_Pad,Mechanical,MountingHole_Pad
+C5,22u,Device,C_Polarized
+R25,22k,Device,R_US
+R22,20k,Device,R_US
+R19,20k,Device,R_US
+U3,TL071,Amplifier_Operational,TL071
+R16,100R,Device,R_US
+J2,Conn_01x05_MountingPin,Connector_Generic_MountingPin,Conn_01x05_MountingPin
+SW2,SW_DP3Tbis,Switch,SW_DP3Tbis
