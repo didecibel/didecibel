@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @didecibel
-- 👀 I’m interested in arts
-- 🌱 I’m currently learning what I can
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me ... I don't know
-
-<!---
-didecibel/didecibel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am attempting to make a paraphonic synthesiser from the Jen SX2000 schematics.
+My goal is to make a simple, easily reparable. It is through hole component. Almost everything is still available online.
+I am not a pro so there could be some mistake. I have not made it yet. These are just the kicad files.
+Debug will follow.
+I'll take my time.
