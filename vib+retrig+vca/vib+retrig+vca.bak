@@ -1278,4 +1278,17 @@ Wire Wire Line
 	6700 5150 10400 5150
 Wire Wire Line
 	2400 2050 2400 2100
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 645326E4
+P 10850 2160
+F 0 "H2" H 10950 2209 50  0000 L CNN
+F 1 "MountingHole_Pad" H 10950 2118 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" H 10850 2160 50  0001 C CNN
+F 3 "~" H 10850 2160 50  0001 C CNN
+	1    10850 2160
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10850 2260 10850 2400
 $EndSCHEMATC
